@@ -1,0 +1,43 @@
+# To-Do List Manager
+
+## Overview
+
+A console-based Java application that allows users to manage a simple to-do list through an interactive menu. Users can add tasks, view all tasks, remove completed tasks, and exit the program.
+
+## Features
+
+- Add new tasks to a to-do list
+- View all current tasks
+- Remove tasks by selecting their number
+- Menu-driven interface with repeated user interaction until exit
+- Input validation for menu selections
+
+## Concepts Practiced
+
+- ArrayLists
+- Loops (`do-while`)
+- Conditional Statements
+- Methods
+- User Input with `Scanner`
+- Menu-Driven Program Design
+
+## Files
+
+- `ToDoListManager.java`
+
+## Sample Menu
+
+```text
+======== TO-DO LIST MANAGER ========
+1. Add a Task
+2. View All Tasks
+3. Remove a Task
+4. Exit
+```
+
+## Skills Demonstrated
+
+- Building interactive console applications
+- Managing dynamic collections using `ArrayList`
+- Processing user input and validating choices
+- Organizing program logic into clear menu options
