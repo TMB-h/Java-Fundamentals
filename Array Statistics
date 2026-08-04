@@ -1,0 +1,23 @@
+# Array Statistics
+
+## Overview
+
+A console application that prompts the user to enter numbers into an array and calculates:
+
+- Sum
+- Average
+- Minimum
+- Maximum
+
+## Concepts
+
+- Arrays
+- Loops
+- Methods
+- User Input
+
+## Skills Demonstrated
+
+- Array traversal
+- Basic algorithms
+- Input validation
