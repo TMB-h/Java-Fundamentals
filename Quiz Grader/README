@@ -1,0 +1,34 @@
+# Quiz Grader
+
+## Overview
+
+A Java console application that grades a 20-question multiple-choice exam. The program prompts the user to enter answers, validates each response, compares them against an answer key, and reports the final score.
+
+## Features
+
+- Accepts answers for a 20-question exam
+- Validates user input (A, B, C, or D)
+- Compares responses against a predefined answer key
+- Calculates the number of correct and incorrect answers
+- Determines whether the student passed or failed
+- Displays the questions answered incorrectly
+
+## Concepts Practiced
+
+- Arrays
+- Loops
+- Conditional Statements
+- Input Validation
+- User Input with `Scanner`
+
+## Files
+
+- `QuizGrader.java`
+
+## Skills Demonstrated
+
+- Array processing
+- Comparing datasets
+- Input validation and error handling
+- Implementing grading logic
+- Producing formatted console output
