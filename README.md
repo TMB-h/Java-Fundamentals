@@ -15,13 +15,11 @@ This repository demonstrates my understanding of fundamental Java programming co
 ## Projects
 
 | Project | Description |
-|----------|-------------|
-| Employee Management | Demonstrates classes, constructors, encapsulation, getters, and setters. |
-| To-Do List Manager | Menu-driven task manager using `ArrayList`. |
-| Quiz Grader | Grades a multiple-choice exam using arrays and input validation. |
-| Array Statistics | Computes sum, average, minimum, and maximum values from user input. |
-| Rock Paper Scissors | Interactive game using methods, loops, and random number generation. |
-| Prime Numbers | Identifies prime numbers using reusable methods and loops. |
+|---|---|
+| [Employee Management](./Employee%20Management) | Demonstrates classes, constructors, encapsulation, getters, and setters. |
+| [To-Do List Manager](./To%20Do%20List%20Manager) | Menu-driven task manager using `ArrayList`. |
+| [Quiz Grader](./Quiz%20Grader) | Grades a multiple-choice exam using arrays and input validation. |
+| [Rock Paper Scissors](./Rock%20Paper%20Scissors) | Interactive game using methods, loops, and random number generation. |
 
 ## Concepts Demonstrated
 
