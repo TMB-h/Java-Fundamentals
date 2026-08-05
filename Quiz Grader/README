@@ -23,7 +23,7 @@ A Java console application that grades a 20-question multiple-choice exam. The p
 
 ## Files
 
-- `Quiz_Grader.java`
+- `QuizGrader.java`
 
 ## Skills Demonstrated
 
