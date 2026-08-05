@@ -86,7 +86,7 @@ class Employee
 
 /////////////////////////////////
 
-public class Barquin_LabAssignment7b
+public class Employee_Management
 {
    public static void main(String[] args)
    {
