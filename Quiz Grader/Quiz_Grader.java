@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Barquin_LabAssignment9
+public class Quiz_Grader
 {
    public static void main(String[] args)
    {
