@@ -1,0 +1,44 @@
+# Rock Paper Scissors
+
+## Overview
+
+A Java console application that simulates the classic Rock, Paper, Scissors game. The program allows the user to play against the computer, generates a random computer choice, determines the winner, and automatically repeats the game in the event of a tie.
+
+## Features
+
+- Accepts user input for Rock, Paper, or Scissors
+- Randomly generates the computer's choice
+- Validates user input
+- Determines the winner based on game rules
+- Repeats the game until a winner is determined
+
+## Concepts Practiced
+
+- Methods
+- Conditional Statements
+- Loops (`do-while`)
+- User Input with `Scanner`
+- Random Number Generation
+- Input Validation
+
+## Files
+
+- `RockPaperScissors.java`
+
+## Skills Demonstrated
+
+- Building an interactive console application
+- Breaking a program into reusable methods
+- Using Java's `Random` class
+- Implementing game logic with conditional statements
+- Validating and processing user input
+
+## Sample Gameplay
+
+```text
+Enter your choice (rock, paper, or scissors): rock
+
+Computer chose: scissors
+
+You win!
+```
