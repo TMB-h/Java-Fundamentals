@@ -1,0 +1,36 @@
+# Employee Management
+
+## Overview
+
+A Java application that demonstrates object-oriented programming by modeling employee records with a custom `Employee` class. The program creates employee objects using multiple constructors, updates employee information through setter methods, and displays employee details using getter methods.
+
+## Features
+
+- Create employee objects with multiple constructors
+- Store employee information including name, ID, department, and position
+- Modify employee data using accessor and mutator methods
+- Display employee information in a formatted output
+- Demonstrate object creation and interaction in Java
+
+## Concepts Practiced
+
+- Classes and Objects
+- Constructors
+- Constructor Overloading
+- Encapsulation
+- Accessor (Getter) Methods
+- Mutator (Setter) Methods
+- Object Instantiation
+
+## Files
+
+- `Employee.java`
+- `EmployeeTest.java`
+
+## Skills Demonstrated
+
+- Designing reusable Java classes
+- Implementing object-oriented programming principles
+- Using encapsulation to protect class data
+- Creating and managing multiple objects
+- Applying constructor overloading to provide flexible object initialization
