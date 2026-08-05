@@ -1,12 +1,12 @@
 # Java Fundamentals
 
-A collection of Java projects developed while learning object-oriented programming and core computer science concepts.
+A collection of Java projects developed while learning object-oriented programming and core computer science concepts. These projects were completed as part of my CS101 coursework and demonstrate my progression from procedural programming to object-oriented design.
 
 ## About
 
 This repository demonstrates my understanding of fundamental Java programming concepts, including object-oriented design, collections, arrays, input validation, and algorithmic problem solving.
 
-## Technologies
+## Technologies & Tools
 
 - Java
 - jGRASP
