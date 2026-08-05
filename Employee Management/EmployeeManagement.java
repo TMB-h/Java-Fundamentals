@@ -86,7 +86,7 @@ class Employee
 
 /////////////////////////////////
 
-public class Employee_Management
+public class EmployeeManagement
 {
    public static void main(String[] args)
    {
