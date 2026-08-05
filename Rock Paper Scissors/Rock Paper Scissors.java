@@ -1,7 +1,7 @@
 import java.util.Scanner;   
 import java.util.Random;
 
-public class Barquin_LabAssignment6b
+public class Rock_Paper_Scissors
 {
    public static Scanner keyboard = new Scanner(System.in);
    
